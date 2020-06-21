@@ -81,12 +81,13 @@ body {
   overflow: hidden;
 }
 
-/*@media (min-width: 700px) {
+@media (min-width: 700px) {
   .js-delete {
     transform: translateY(-65%);
   }
 }
-.js-delete:hover {
+
+/*.js-delete:hover {
   background: transparent;
 }
 .js-delete:hover span {
