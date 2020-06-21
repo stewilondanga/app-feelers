@@ -153,7 +153,7 @@ body {
   transition: .3s ease;
 }
 
-/*.mobile__app .delete {
+.mobile__app .delete {
   position: absolute;
   left: -5%;
   top: -5%;
@@ -165,7 +165,8 @@ body {
   transition: .4s ease;
   z-index: 1;
 }
-.mobile__app .delete:before, .mobile__app .delete:after {
+
+/*.mobile__app .delete:before, .mobile__app .delete:after {
   content: '';
   width: 10%;
   height: 70%;
