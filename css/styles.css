@@ -54,10 +54,11 @@ body {
   z-index: 1;
 }
 
-/*.mobile__wrapper.active .mobile__app .delete {
+.mobile__wrapper.active .mobile__app .delete {
   opacity: 1;
 }
-.mobile__wrapper.active img {
+
+/*.mobile__wrapper.active img {
   opacity: 0.1;
 }
 
