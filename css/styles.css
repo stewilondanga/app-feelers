@@ -25,7 +25,6 @@ body {
   height: 1.5em;
 }
 
-/*
 .mobile__wrapper {
   position: relative;
   display: flex;
@@ -38,7 +37,8 @@ body {
   border-width: 10px 10px 0;
   border-radius: 3rem 3rem 0 0;
 }
-.mobile__wrapper:not(.active) {
+
+/*.mobile__wrapper:not(.active) {
   pointer-events: none;
 }
 .mobile__wrapper:before {
