@@ -138,11 +138,12 @@ body {
   padding-top: 100%;
 }
 
-/*.mobile__app svg {
+.mobile__app svg {
   width: 120%;
   transform: translate(-10%, 44%);
 }
-.mobile__app img {
+
+/*.mobile__app img {
   position: absolute;
   opacity: 0.35;
   width: 100%;
