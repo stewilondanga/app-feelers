@@ -1,3 +1,11 @@
+body {
+  height: 100vh;
+  background: #FBF0E7;
+  display: grid;
+  font-family: MuseoModerno;
+  text-align: center;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,13 +29,6 @@
   height: 1.5em;
 }
 
-body {
-  height: 100vh;
-  background: #FBF0E7;
-  display: grid;
-  font-family: MuseoModerno;
-  text-align: center;
-}
 
 * {
   box-sizing: border-box;
