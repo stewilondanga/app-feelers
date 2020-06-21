@@ -243,13 +243,12 @@ body {
   fill: #94cce5;
 }
 
-/*.cls-10 {
+.cls-10 {
   stroke: #94cce5;
   stroke-width: 0.88px;
 }
 
-
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
