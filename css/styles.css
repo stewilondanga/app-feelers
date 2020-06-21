@@ -209,11 +209,11 @@ body {
   stroke-miterlimit: 10;
 }
 
-/*.cls-1 {
+.cls-1 {
   stroke-width: 3px;
 }
 
-.cls-2,
+/*.cls-2,
 .cls-5 {
   fill: #010000;
 }
