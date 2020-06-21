@@ -175,10 +175,11 @@ body {
   border-radius: 6px;
 }
 
-/*.mobile__app .delete:before {
+.mobile__app .delete:before {
   transform: translate(-50%, 20%) rotate(45deg);
 }
-.mobile__app .delete:after {
+
+/*.mobile__app .delete:after {
   transform: translate(-50%, 20%) rotate(-45deg);
 }
 
