@@ -42,7 +42,7 @@ body {
   pointer-events: none;
 }
 
-/*.mobile__wrapper:before {
+.mobile__wrapper:before {
   content: '';
   height: 170px;
   width: 110%;
@@ -53,7 +53,8 @@ body {
   background: linear-gradient(to top, #fbf0e7, rgba(251, 240, 231, 0));
   z-index: 1;
 }
-.mobile__wrapper.active .mobile__app .delete {
+
+/*.mobile__wrapper.active .mobile__app .delete {
   opacity: 1;
 }
 .mobile__wrapper.active img {
