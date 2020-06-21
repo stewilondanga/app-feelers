@@ -183,7 +183,7 @@ body {
   transform: translate(-50%, 20%) rotate(-45deg);
 }
 
-/*.hidden {
+.hidden {
   opacity: 0;
 }
 
