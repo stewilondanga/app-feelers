@@ -132,12 +132,13 @@ body {
   z-index: 2;
 }
 
-/*.mobile__app:before {
+.mobile__app:before {
   content: '';
   float: left;
   padding-top: 100%;
 }
-.mobile__app svg {
+
+/*.mobile__app svg {
   width: 120%;
   transform: translate(-10%, 44%);
 }
