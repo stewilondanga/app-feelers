@@ -58,11 +58,11 @@ body {
   opacity: 1;
 }
 
-/*.mobile__wrapper.active img {
+.mobile__wrapper.active img {
   opacity: 0.1;
 }
 
-.js-delete {
+/*.js-delete {
   position: relative;
   width: 90%;
   border-radius: 30rem;
