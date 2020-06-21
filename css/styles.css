@@ -143,7 +143,7 @@ body {
   transform: translate(-10%, 44%);
 }
 
-/*.mobile__app img {
+.mobile__app img {
   position: absolute;
   opacity: 0.35;
   width: 100%;
@@ -152,7 +152,8 @@ body {
   border-radius: 1.5rem;
   transition: .3s ease;
 }
-.mobile__app .delete {
+
+/*.mobile__app .delete {
   position: absolute;
   left: -5%;
   top: -5%;
