@@ -87,10 +87,11 @@ body {
   }
 }
 
-/*.js-delete:hover {
+.js-delete:hover {
   background: transparent;
 }
-.js-delete:hover span {
+
+/*.js-delete:hover span {
   color: #234050;
   text-shadow: none;
 }
