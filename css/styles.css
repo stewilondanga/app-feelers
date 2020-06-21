@@ -91,11 +91,12 @@ body {
   background: transparent;
 }
 
-/*.js-delete:hover span {
+.js-delete:hover span {
   color: #234050;
   text-shadow: none;
 }
-.js-delete span {
+
+/*.js-delete span {
   display: block;
   transition: .4s ease;
   text-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
