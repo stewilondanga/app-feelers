@@ -62,7 +62,7 @@ body {
   opacity: 0.1;
 }
 
-/*.js-delete {
+.js-delete {
   position: relative;
   width: 90%;
   border-radius: 30rem;
@@ -80,7 +80,8 @@ body {
   max-height: 74px;
   overflow: hidden;
 }
-@media (min-width: 700px) {
+
+/*@media (min-width: 700px) {
   .js-delete {
     transform: translateY(-65%);
   }
